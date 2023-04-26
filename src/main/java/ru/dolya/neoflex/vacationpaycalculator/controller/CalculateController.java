@@ -1,11 +1,11 @@
-package ru.dolya.neoflex.test.controller;
+package ru.dolya.neoflex.vacationpaycalculator.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import ru.dolya.neoflex.test.model.VacationPay;
-import ru.dolya.neoflex.test.service.CalculateService;
+import ru.dolya.neoflex.vacationpaycalculator.model.VacationPay;
+import ru.dolya.neoflex.vacationpaycalculator.service.CalculateService;
 
 
 

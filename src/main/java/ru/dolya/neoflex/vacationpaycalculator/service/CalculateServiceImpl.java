@@ -1,7 +1,7 @@
-package ru.dolya.neoflex.test.service;
+package ru.dolya.neoflex.vacationpaycalculator.service;
 
 import org.springframework.stereotype.Service;
-import ru.dolya.neoflex.test.model.VacationPay;
+import ru.dolya.neoflex.vacationpaycalculator.model.VacationPay;
 
 
 

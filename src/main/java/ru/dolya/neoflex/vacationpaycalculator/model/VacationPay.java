@@ -1,4 +1,4 @@
-package ru.dolya.neoflex.test.model;
+package ru.dolya.neoflex.vacationpaycalculator.model;
 
 
 public class VacationPay {
