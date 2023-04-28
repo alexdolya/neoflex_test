@@ -1,4 +1,4 @@
-package ru.dolya.neoflex.vacationpaycalculator;
+package ru.dolya.neoflex.paymentcalculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
